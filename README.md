@@ -7,4 +7,5 @@ Plugin for EDDiscovery. Shows organic signals of planets in the current star sys
 # Setup
 Установка плагина в EDDiscovery предельно проста. Необходимо скопировать #DVGSoft.LocalOrganicScanViewer.dll# в папку %%LOCALAPPDATA%% \ EDDiscovery \DLL, если у вас полноценная установленная версия (не проверено, автор пользуется Portable версией), или %%PATH_TO_EDDISCOVERY%%\Data\DLL, если вы используете Portable версию программы.
 Подробнее: [ЗДЕСЬ](https://github.com/EDDiscovery/EDDiscovery/wiki/5.1-Extending-EDD-with-DLLs)
+
 Плагин требует установки .NET Framework 4.8 для своей работы.
